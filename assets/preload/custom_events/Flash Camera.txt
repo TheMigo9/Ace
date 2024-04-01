@@ -1,0 +1,4 @@
+Flashes Camera
+
+Value 1: speed
+siempre en 1 pls

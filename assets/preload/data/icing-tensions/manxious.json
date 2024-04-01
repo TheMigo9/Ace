@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Minace_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-120
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Minace_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-140
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Minace_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				196,
+				163
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Minace_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-140
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Minace_Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/manxious",
+	"position": [
+		870,
+		450
+	],
+	"healthicon": "ace",
+	"flip_x": true,
+	"healthbar_colors": [
+		186,
+		226,
+		255
+	],
+	"camera_position": [
+		-180,
+		-410
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

@@ -3,41 +3,41 @@
 		{
 			"loop": false,
 			"offsets": [
-				-263,
-				9
+				0,
+				0
 			],
 			"anim": "firstDeath",
 			"fps": 24,
-			"name": "BF dies",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-263,
-				3
-			],
-			"anim": "deathLoop",
-			"fps": 24,
-			"name": "BF Dead Loop",
+			"name": "retry appear",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-263,
-				67
+				131,
+				145
 			],
 			"anim": "deathConfirm",
 			"fps": 24,
-			"name": "BF Dead confirm",
+			"name": "retry confirm",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				15,
+				9
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "retry loop",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND_DEAD",
+	"image": "characters/bf-retry",
 	"position": [
-		0,
+		-50,
 		350
 	],
 	"healthicon": "bf",
@@ -48,9 +48,9 @@
 		209
 	],
 	"camera_position": [
-		0,
-		0
+		-70,
+		70
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.5
 }

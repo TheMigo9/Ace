@@ -57,10 +57,10 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/gf",
+	"image": "characters/gf-retro",
 	"position": [
-		170,
-		40
+		120,
+		-150
 	],
 	"healthicon": "gf",
 	"flip_x": false,
@@ -70,8 +70,8 @@
 		77
 	],
 	"camera_position": [
-		-170,
-		-170
+		-330,
+		-240
 	],
 	"sing_duration": 4,
 	"scale": 2.01

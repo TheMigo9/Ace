@@ -1,0 +1,81 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				320
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"scale": 1,
+			"indices": [],
+			"name": "Minace_Idle"
+		},
+		{
+			"offsets": [
+				120,
+				169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"scale": 1,
+			"indices": [],
+			"name": "Minace_Down"
+		},
+		{
+			"offsets": [
+				198,
+				486
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"scale": 1,
+			"indices": [],
+			"name": "Minace_Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				265,
+				184
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Minace_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				183
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Minace_Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mace",
+	"position": [
+		40,
+		600
+	],
+	"healthicon": "ace",
+	"flip_x": true,
+	"healthbar_colors": [
+		196,
+		229,
+		248
+	],
+	"camera_position": [
+		-210,
+		-510
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

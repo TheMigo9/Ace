@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Iceolation Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-220,
+				-510
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Iceolation Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-40
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Iceolation Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				-154
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Iceolation Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-60
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Iceolation Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Iceolation",
+	"position": [
+		-66,
+		-18
+	],
+	"healthicon": "iceolation",
+	"flip_x": false,
+	"healthbar_colors": [
+		151,
+		179,
+		198
+	],
+	"camera_position": [
+		-130,
+		-110
+	],
+	"sing_duration": 6.2,
+	"scale": 2.4
+}
